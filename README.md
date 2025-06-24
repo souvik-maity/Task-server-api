@@ -68,13 +68,27 @@ MONGODB_URI=mongodb://localhost:27017/mytaskdb
 node app.js
 ```
 
+## 🧪 Testing Summary
+
+We wrote unit, integration, and API tests using **Jest** and **Supertest**.
+
+##  Coverage screenshot below:
+
+![Screenshot 2025-06-24 162634](https://github.com/user-attachments/assets/28c30358-bf38-49bd-84e7-6c7ed42e5e4e)
 
 
 
 
+### 🚀 How to Run Tests
 
-
-
+```bash
+cd backend
+npm install
+npm test
+yaml
+Copy
+Edit
+```
 
 
 
