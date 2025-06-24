@@ -85,9 +85,6 @@ We wrote unit, integration, and API tests using **Jest** and **Supertest**.
 cd backend
 npm install
 npm test
-yaml
-Copy
-Edit
 ```
 
 
